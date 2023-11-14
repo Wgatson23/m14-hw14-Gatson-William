@@ -2,7 +2,9 @@ body {
 	background-color: rgb(243, 242, 242);
 }
 
-p {
+p,
+.card-body,
+.list-group-item {
 	font-size: 20px;
 }
 
